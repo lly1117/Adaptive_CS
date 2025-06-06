@@ -1,0 +1,1 @@
+place testset in data folder start test.py to generate reconstructed image
